@@ -1,0 +1,43 @@
+*.iml
+.gradle/
+.idea/
+    /caches
+    /libraries
+    /modules.xml
+    /workspace.xml
+    /navEditor.xml
+    /assetWizardSettings.xml
+
+/local.properties
+local.properties
+
+.DS_Store
+
+/**/build/
+/captures/
+/externalNativeBuild/
+/.cxx/
+
+*.kotlin_module
+.gradle-kotlin-dsl/
+*.kts.lock
+
+*.class
+*.dex
+*.jar
+*.apk
+*.ap_
+gen/
+out/
+
+*.log
+*.hprof
+debug.keystore
+
+*.so
+*.o
+*.obj
+
+*~ 
+*.swp
+*.orig
